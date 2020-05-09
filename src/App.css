@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+.container {
+  background-color: hsl(225, 27%, 25%);
+}
+.test {
+  margin-top:10px;
+  border-radius: 2px;
+  border-color: #000;
+  border: 1px solid;
+  background-color: aquamarine;
+  height: 50px;
+  text-align: center;
+}
+.header {
+  background-color: #27727a;
+}
+.header-text{
+  color: #fff;
+}
+.chooseFile {
+  align-items: center;
+  justify-items: flex-end;
+
+}
+.chooseFileBt {
+  background-color: #b4b7bf;
+}
+.btn {
+  background-color: #58ab3e;
+  border: 1px solid;
+  border-radius: 5px;
+  border-color: #58ab3e;
+  align-items: center;
+  margin: 10px;
+  color: #fff;
+}
+.validate {
+  border-radius: 5px;
+}
+.image {
+  margin: 10px;
+}
